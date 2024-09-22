@@ -1,16 +1,16 @@
-## Bom Dia, Boa Tarde, Boa Noite ✌️
+# Bom Dia, Boa Tarde, Boa Noite ✌️
 
-##### Me chamo Luís, tenho 20 anos, moro em Valparaíso de Goiás e sou uma pessoa bastante introvertida. Até o momento em que estou escrevendo, sou um completo iniciante nesse vasto mundo da programação. Ainda possuo um caminho enorme pela frente, mas o que posso dizer é que o primeiro passo já foi dado.
+#### Me chamo Luís, tenho 20 anos, moro em Valparaíso de Goiás e sou uma pessoa bastante introvertida. Até o momento em que estou escrevendo, sou um completo iniciante nesse vasto mundo da programação. Ainda possuo um caminho enorme pela frente, mas o que posso dizer é que o primeiro passo já foi dado.
 
 ![alt](https://i.gifer.com/63a0.gif)
 
-### ⚙️Tecnologias e Ferramentas:
+## ⚙️Tecnologias e Ferramentas:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-### ❗ Informaçõs Gerais
+## ❗ Informaçõs Gerais
 
-#### 👶 Estou iniciando com lógica de programação no JavaScript, por meio dos cursos da Alura.
+### 👶 Estou iniciando com lógica de programação no JavaScript, por meio dos cursos da Alura.
 #### 👊 Pretendo posteriormente me especializar em Python, e seguir a área de Dados, mas sei que ainda preciso fazer muito antes disso.
 
 <img loading="lazy" height="180em" src="https://github.com/user-attachments/assets/8096dbeb-6854-4d23-8223-e39e0cfaacd4"/>
