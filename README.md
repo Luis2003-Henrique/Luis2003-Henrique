@@ -11,7 +11,7 @@
 ## ❗ Informaçõs Gerais
 
 ### 👶 Estou iniciando com lógica de programação no JavaScript, por meio dos cursos da Alura.
-#### 👊 Pretendo posteriormente me especializar em Python, e seguir a área de Dados, mas sei que ainda preciso fazer muito antes disso.
+### 👊 Pretendo posteriormente me especializar em Python, e seguir a área de Dados, mas sei que ainda preciso fazer muito antes disso.
 
 <img loading="lazy" height="180em" src="https://github.com/user-attachments/assets/8096dbeb-6854-4d23-8223-e39e0cfaacd4"/>
 
