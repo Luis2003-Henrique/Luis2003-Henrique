@@ -1,6 +1,6 @@
 # Bom Dia, Boa Tarde, Boa Noite ✌️
 
-#### Me chamo Luís, tenho 20 anos, moro em Valparaíso de Goiás e sou uma pessoa bastante introvertida. Até o momento em que estou escrevendo, sou um completo iniciante nesse vasto mundo da programação. Ainda possuo um caminho enorme pela frente, mas o que posso dizer é que o primeiro passo já foi dado.
+#### Me chamo Luís, tenho 20 anos, moro em Valparaíso de Goiás e sou uma pessoa reservada e objetiva. Até o momento em que estou escrevendo, sou um completo iniciante nesse vasto mundo da programação. Ainda possuo um caminho enorme pela frente, mas o que posso dizer é que o primeiro passo já foi dado.
 
 ![alt](https://i.gifer.com/63a0.gif)
 
@@ -10,8 +10,12 @@
 
 ## ❗ Informaçõs Gerais
 
-### 👶 Estou iniciando com lógica de programação no JavaScript, por meio dos cursos da Alura.
-### 👊 Pretendo posteriormente me especializar em Python, e seguir a área de Dados, mas sei que ainda preciso fazer muito antes disso.
+### 🎮 Meus Hobbys são assistir animes e jogar video game. Eles são o que me traz paz e sossego.
+### 🤫 Não gosto de bater papo ou "jogar conversa fora". Contudo, priorizo o respeito acima de tudo, e tento nunca agir de forma que soe arrogante ou desrespeitoso.
+### 🤨 Quando o assunto é alguma área profissional, sou objetivo e centrado.
+### 👊 Concluí a formação de lógica de programação, por meio dos cursos da Alura. 
+### 👶 Agora, para ampliar os conhecimentos a cerca do que é de fato a programação, estudarei a linguagem C.
+### 🤩 Pretendo posteriormente me especializar em Python, e seguir a área de Dados, mas sei que ainda preciso fazer muito antes disso.
 
 <img loading="lazy" height="180em" src="https://github.com/user-attachments/assets/8096dbeb-6854-4d23-8223-e39e0cfaacd4"/>
 
@@ -27,17 +31,4 @@
 
 
 
-<!--
-**Luis2003-Henrique/Luis2003-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
