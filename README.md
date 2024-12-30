@@ -13,9 +13,8 @@
 ### 🎮 Meus Hobbys são assistir animes e jogar video game. Eles são o que me traz paz e sossego.
 ### 🤫 Não gosto de bater papo ou "jogar conversa fora". Contudo, priorizo o respeito acima de tudo, e tento nunca agir de forma que soe arrogante ou desrespeitoso.
 ### 🤨 Quando o assunto é alguma área profissional, sou objetivo e centrado.
-### 👊 Concluí a formação de lógica de programação, por meio dos cursos da Alura. 
-### 👶 Agora, para ampliar os conhecimentos a cerca do que é de fato a programação, estudarei a linguagem C.
-### 🤩 Pretendo posteriormente me especializar em Python, e seguir a área de Dados, mas sei que ainda preciso fazer muito antes disso.
+### 👊 Concluí as formações de lógica de programação e de Linguagem C por meio dos cursos da Alura. 
+### 🤩 Estou iniciando em Python, com foco em Diência de Dados.
 
 <img loading="lazy" height="180em" src="https://github.com/user-attachments/assets/8096dbeb-6854-4d23-8223-e39e0cfaacd4"/>
 
