@@ -6,7 +6,7 @@
 
 ## ⚙️Tecnologias e Ferramentas:
 
-<img loading="lazy" src=![image](https://github.com/user-attachments/assets/4aa60ee8-3427-4de9-9e38-7a557a846524) width="40" height="40"/>
+<img loading="lazy" src="https://github.com/user-attachments/assets/4aa60ee8-3427-4de9-9e38-7a557a846524" width="40" height="40"/>
 
 ## ❗ Informaçõs Gerais
 
