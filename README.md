@@ -14,7 +14,7 @@
 ### 🤫 Não gosto de bater papo ou "jogar conversa fora". Contudo, priorizo o respeito acima de tudo, e tento nunca agir de forma que soe arrogante ou desrespeitoso.
 ### 🤨 Quando o assunto é alguma área profissional, sou objetivo e centrado.
 ### 👊 Concluí as formações de lógica de programação e de Linguagem C por meio dos cursos da Alura. 
-### 🤩 Estou iniciando em Python, com foco em Diência de Dados.
+### 🤩 Estou iniciando em Python, com foco em Ciência de Dados.
 
 <img loading="lazy" height="180em" src="https://github.com/user-attachments/assets/8096dbeb-6854-4d23-8223-e39e0cfaacd4"/>
 
